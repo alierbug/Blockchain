@@ -9,7 +9,7 @@ When you run the code, you will see that;
 <img width="1638" alt="run_app" src="https://user-images.githubusercontent.com/13150938/46142028-4bd89680-c25e-11e8-8712-616bb404e187.png">
 
 
-The importing point: Running on http://0.0.0.0:5000/ 
+The important point: Running on http://0.0.0.0:5000/ 
 
 Now you just need to open postman. Then send request like "http://127.0.0.1:5000/get_chain", "http://127.0.0.1:5000/mine_block".
 
